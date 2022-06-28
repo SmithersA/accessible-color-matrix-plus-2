@@ -1,7 +1,6 @@
-This is a tool to help designers build color palettes with
-combinations that conform with accessibility standards.
+This is an attempt to customize this tool for specific agency use.
 
-It is based on work done in [18F/brand#94][].
+It is based on original work done in [18F/brand#94][].
 
 ## Quick start
 
