@@ -34,10 +34,10 @@ port updateFavicon : List String -> Cmd msg
 defaultPalette : SerializedPalette
 defaultPalette =
   [ ("white", "ffffff")
-  , ("light", "b3efff")
-  , ("bright", "00cfff")
-  , ("medium", "046b99")
-  , ("dark", "1c304a")
+  , ("light", "f4b485")
+  , ("red-orange", "da4926")
+  , ("PANTONE warm gray", "7d716d")
+  , ("NMAAHC Purple", "612a60")
   , ("black", "000000")
   ]
 
